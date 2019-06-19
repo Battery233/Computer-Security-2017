@@ -1,2 +1,2 @@
 # Computer-Security-2017
-Some scripts for the course: https://www.inf.ed.ac.uk/teaching/courses/cs/
+Some scripts and files for the computer security course: https://www.inf.ed.ac.uk/teaching/courses/cs/

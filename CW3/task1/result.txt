@@ -1,0 +1,4 @@
+Incorrect password
+
+You are now authenticated, you deserve a cookie!
+bab5158b0edc0961a7ac5388608b8ad7dd334e17b454008f9d2dededef2dd422514049526ad794784891f75d941fb3502dee67d180826cb848ff9f8f0afb9c37

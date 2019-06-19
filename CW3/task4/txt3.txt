@@ -1,0 +1,1 @@
+cat /home/task4/secret.txt
